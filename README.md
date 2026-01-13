@@ -1,5 +1,15 @@
 # 💫 About Me:
-🔨 I'm currently working on<br>The Canadian Newcomer Companion - a platform helping newcomers navigate Canada's settlement process<br>🤝 I'm looking to collaborate on<br>Innovative nutrition tech startups and health-focused applications<br>💎 I'm looking for help with<br>Expanding my knowledge in AI and machine learning applications<br>🌱 I'm currently learning<br>Numerical Analysis and Computer Graphics Theory<br>💬 Ask me about<br>Full-stack development, basketball analytics, building fantasy sports apps, or my experience with React and database systems<br>⚡ Fun fact<br>I've built a fantasy basketball app that combines my love for sports with software development - because why choose between hobbies when you can code them together!<br>
+🔨 I'm currently working on<br>The Canadian Newcomer Companion - a platform helping newcomers navigate Canada's settlement process<br>
+
+🤝 I'm looking to collaborate on<br>Innovative nutrition tech startups and health-focused applications<br>
+
+💎 I'm looking for help with<br>Expanding my knowledge in AI and machine learning applications<br>
+
+🌱 I'm currently learning<br>Numerical Analysis and Computer Graphics Theory<br>
+
+💬 Ask me about<br>Full-stack development, basketball analytics, building fantasy sports apps, or my experience with React and database systems<br>
+
+⚡ Fun fact<br>I've built a fantasy basketball app that combines my love for sports with software development - because why choose between hobbies when you can code them together!<br>
 
 
 ## 🌐 Socials:
