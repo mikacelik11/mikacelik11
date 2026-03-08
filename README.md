@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔨 I'm currently working on<br>The Canadian Newcomer Companion - a platform helping newcomers navigate Canada's settlement process<br>
+🔨 I'm currently working on<br> Python Chatbot - a chatbot that will help me learn more about AI<br>
 
 🤝 I'm looking to collaborate on<br>Innovative nutrition tech startups and health-focused applications<br>
 
